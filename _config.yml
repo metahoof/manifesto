@@ -1,0 +1,26 @@
+# SEO Values
+title: MetaHoof - The Community Manifesto
+tagline: MetaHoof GameThe premier NFT horse racing game on http://Ultra.io. Breed, race, trade, and win! Join the race today!
+description: MetaHoof GameThe premier NFT horse racing game on http://Ultra.io. Breed, race, trade, and win! Join the race today!
+url: https://metahoof.github.io/manifesto/
+twitter: https://x.com/metahoof_game
+logo: https://avatars.githubusercontent.com/u/171183143?s=200&v=4
+
+# Google Analytics ID
+google_analytics:
+
+# GitHub Values
+github:
+  owner_name: Dracula
+  owner_url: https://github.com/dracula
+  repository_url: https://github.com/dracula/gh-pages
+
+show_downloads: false
+show_header: false
+remote_theme: "dracula/gh-pages"
+
+sass:
+    style: compressed
+
+plugins:
+  - jekyll-seo-tag
