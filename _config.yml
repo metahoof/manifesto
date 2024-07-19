@@ -12,6 +12,9 @@ github:
   owner_url: https://github.com/dracula
   repository_url: https://github.com/dracula/gh-pages
 
+website: https://manifesto.metahoof.com
+baseurl: ''
+
 show_downloads: false
 show_header: false
 remote_theme: "dracula/gh-pages"
