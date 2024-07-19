@@ -10,7 +10,7 @@
 blockchain.</h4>
 
 <p align="center">
-<a href="https://discord.gg/Dztm7W5Zvh" target="_blank">
+<a href="https://discord.gg/UJ59KgS6rK" target="_blank">
    <img alt="Static Badge" src="https://img.shields.io/badge/join_us_on_discord-metahoof_community-black?style=flat&logo=discord&logoColor=%23fff&labelColor=%237289da">
 </a>
 <a href="https://x.com/metahoof_game" target="_blank">
@@ -134,5 +134,5 @@ Together, let's create the ultimate NFT digital horse racing experience with Met
 the Ultra ecosystem. Welcome to the future of gaming!
 
 [![Join Discord](https://img.shields.io/badge/join_us_on_discord-metahoof_community-black?style=flat&logo=discord&logoColor=%23fff&labelColor=%237289da
-)](https://discord.gg/Dztm7W5Zvh) [![X (formerly Twitter) Follow](https://img.shields.io/badge/follow_us-%40metahoof__game-blue?flat&logo=x
-)](https://discord.gg/Dztm7W5Zvh)
+)](https://discord.gg/UJ59KgS6rK) [![X (formerly Twitter) Follow](https://img.shields.io/badge/follow_us-%40metahoof__game-blue?flat&logo=x
+)](https://discord.gg/UJ59KgS6rK)
